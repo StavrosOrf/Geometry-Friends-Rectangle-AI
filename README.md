@@ -1,10 +1,9 @@
 # Geometry-Friends-Rectangle-AI
-# Rectangle Track with an A* approach.
+Rectangle Track with an A* approach.
 
-## Orfanoudakis Stavros
+## Orfanoudakis Stavros February 2020
 
-## February 2020
-
+For demos head to this page: http://www.intelligence.tuc.gr/~robots/ARCHIVE/2019w/projects/LAB51343088/
 ## 1 Introduction
 
 Geometry Friends is a two player cooperative puzzle computer game developed
